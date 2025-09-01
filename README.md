@@ -8,14 +8,14 @@ The goal is to have more of your pieces on the board than your opponent by the t
 Board: 8×8 grid.
 Pieces: two-sided discs (black and white).
 Initial position:
-. . . . . . . .
-. . . . . . . .
-. . . . . . . .
-. . . W B . . .
-. . . B W . . .
-. . . . . . . .
-. . . . . . . .
-. . . . . . . .
+. . . . . . . .<br>
+. . . . . . . .<br>
+. . . . . . . .<br>
+. . . W B . . .<br>
+. . . B W . . .<br>
+. . . . . . . .<br>
+. . . . . . . .<br>
+. . . . . . . .<br>
 (W = White, B = Black)
 White moves first.
 
